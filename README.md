@@ -5,12 +5,18 @@ Below you will find links to several sessions that discussion Azure Cognitive Se
 ## Cognitive Search, the pocket-knife of knowledge mining (Live Session)
 Speaker: Luis Cabrera, Moderator: Liam Cavanagh
 
+Link: https://mybuild.microsoft.com/sessions/e633a83d-174b-439c-8003-b48c4b347b3d?source=sessions
+
 A demo-packed presentation session that shows why so many have come to rely on Azure Cognitive Search as a Secure, Intelligent and Developer Friendly tool to solve their knowledge mining needs. We’ll give you an update on the latest developments in Azure Cognitive Search. 
 
 **Streaming session times**
+
 Wednesday, [May 20 9:00 AM PST](https://mybuild.microsoft.com/sessions/e35f1659-e98c-4824-ba9a-422fcfcf04c6?source=sessions)
+
 Wednesday, [May 20 9:30 PM PST](https://mybuild.microsoft.com/sessions/391f3d09-50b4-476a-9acf-4fd2d4927a9e?source=sessions)
+
 Thursday, [May 21 1:30 AM PST](https://mybuild.microsoft.com/sessions/e633a83d-174b-439c-8003-b48c4b347b3d?source=sessions)
+
 
 ## Using AI to mine unstructured research papers to fight COVID-19 
 Speaker: Liam Cavanagh
@@ -50,5 +56,7 @@ Link: https://mybuild.microsoft.com/sessions/5d96d0d6-d1ba-4068-b57e-2022ce6b704
 Join this discussion to understand how the latest announcements and news will help your AI projects. The product team will talk about the tech and how to best use the newest capabilities. Warning - don’t blink!
 
 **Streaming session times**
+
 Wednesday, May 20, 1:15 PM - 1:30 PM PST
+
 
