@@ -1,6 +1,6 @@
 # Azure Cognitive Search Sessions at Microsoft Build 2020
 
-We’ll have one streaming session (30 min total, including Q&A),  4 on-demand sessions (between 30 and 40 minutes total) and we’ll take part on a live Q&A panel.
+Below you will find links to several sessions that discussion Azure Cognitive Search at Microsoft Build.
 
 ## Cognitive Search, the pocket-knife of knowledge mining (Live Session)
 Speaker: Luis Cabrera, Moderator: Liam Cavanagh
